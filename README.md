@@ -1,2 +1,2 @@
 # gnn-explorations
-Repo to mess around with gnn implementations and tutorials
+Repo to mess around with Graph Neural Network (GNN) implementations and tutorials
